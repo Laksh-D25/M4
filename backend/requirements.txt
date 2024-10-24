@@ -1,0 +1,7 @@
+opencv-python-headless    # OpenCV for camera access
+mediapipe                   # MediaPipe for facial detection
+tensorflow                    # TensorFlow for real-time emotion classification model
+numpy                      # Required by TensorFlow and general data processing
+spotipy                    # Spotify API client for Python
+Flask                        # Flask for serving backend API
+Flask-CORS                  # Handling cross-origin requests between backend and frontend
